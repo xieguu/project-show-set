@@ -29,6 +29,13 @@
 | 项目文档 | [docs](./docs/) |
 | 个人 GitHub 主页 | [github.com](https://github.com) |
 
+## 其它项目
+
+其它项目统一存放在 [`projects/`](./projects/) 目录，并预留源码、在线演示、视频和文档地址。
+
+- [其它项目地址与存储规范](./projects/README.md)
+- [新增项目模板](./projects/project-template/README.md)
+
 ## 简历关联文案
 
 > 多媒体技术项目：负责素材选取与处理、视频精剪和脚本设计，累计剪辑视频 50 条、编写文案 25 条；项目演示视频见仓库链接。
